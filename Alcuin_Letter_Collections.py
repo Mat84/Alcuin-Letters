@@ -1,7 +1,14 @@
 ###William James Mattingly | copyright April 2020###
 ####################################################
 '''
-I developed the following functions while researching and writing my dissertation at the University of Kentucky. The dissertation was defended in April 2020. It is entitled: “DISTANCE LEARNING” IN THE NINTH CENTURY?: MICRO-CLUSTER ANALYSIS OF THE EPISTOLARY NETWORK OF ALCUIN AFTER 796. These functions allow the researcher to analyze Alcuin's letters quantitatively with two sets of metadata: manuscripts (located in the collections_data.json, hosted on UKnowledge) and data extracted from the PASE dataset on Alcuin's letters (http://www.pase.ac.uk/). I do not have the rights to this data, but I provide the functions for analyzing it bellow and the way in which one should structure the json file that holds that data. Using PyVis, a powerful Python module to produce VisJS dynamic maps, these functions not only provide quantitative data, but also render the data visually.
+I developed the following functions while researching and writing my dissertation at the University of Kentucky.
+The dissertation was defended in April 2020.It is entitled: “DISTANCE LEARNING” IN THE NINTH CENTURY?: MICRO-CLUSTER
+ANALYSIS OF THE EPISTOLARY NETWORK OF ALCUIN AFTER 796. These functions allow the researcher to analyze Alcuin's
+letters quantitatively with two sets of metadata: manuscripts (located in the collections_data.json, hosted on UKnowledge)
+and data extracted from the PASE dataset on Alcuin's letters (http://www.pase.ac.uk/). I do not have the rights to this data,
+but I provide the functions for analyzing it bellow and the way in which one should structure the json file that holds that data.
+Using PyVis, a powerful Python module to produce VisJS dynamic maps, these functions not only provide quantitative data,
+but also render the data visually.
 '''
 
 #Dependecies
