@@ -219,7 +219,9 @@ def get_list_of_letters():
 
 
 '''
-The following functions work with the PASE data. They have not been debugged. I provide them for users who wish to expirement with them. Please check GitHub for updates on these functions (https://github.com/wjbmattingly/Alcuin-Letters).
+The following functions work with the PASE data. They have not been debugged.
+I provide them for users who wish to expirement with them. Please check GitHub for updates on these functions
+(https://github.com/wjbmattingly/Alcuin-Letters).
 '''
 
 #Returns a list of recipients
