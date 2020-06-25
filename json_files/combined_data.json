@@ -1,0 +1,5264 @@
+[
+    {
+        "ep_num": [
+            "1"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "a friend"
+        ],
+        "people_cited": [
+            "Benedict 5"
+        ]
+    },
+    {
+        "ep_num": [
+            "2"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Leothfrith 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Benedict 6",
+            "Leothfrith 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "3"
+        ],
+        "mss": [
+            ""
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "4"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Riculf"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "5"
+        ],
+        "mss": [
+            "T",
+            "K1",
+            "K2",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Felix 4"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "6"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "abbot N, sending greetings to Bishop Willehad 1"
+        ],
+        "people_cited": [
+            "Willehad 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "7"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Colchu 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Areida 1",
+            "Charlemagne 1",
+            "Charlemagne 1",
+            "Colchu 1",
+            "Joseph 2",
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "8"
+        ],
+        "mss": [
+            "A1",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Joseph 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Berdic 1",
+            "Brorda 4",
+            "Colchu 1",
+            "Eanfrith 6",
+            "Frotgoneg 1",
+            "Joseph 2",
+            "Joseph 2",
+            "Oduin 1",
+            "Rufus 1",
+            "Uinter 1",
+            "Aethelred 7",
+            "Aethelwald 14"
+        ]
+    },
+    {
+        "ep_num": [
+            "9"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Adalhard 1",
+            "Alcuin 1",
+            "Angilberct 1",
+            "Bernher 1",
+            "Etuuit 1",
+            "George 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "10"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "A1",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Arno 1",
+            "Laedred 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "11"
+        ],
+        "mss": [
+            "T",
+            "S1a",
+            "S1b",
+            "S1*",
+            "K1",
+            "K2",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Angilberct 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "12"
+        ],
+        "mss": [
+            "T",
+            "K1",
+            "K2",
+            "S1",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1860, Fordrad 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Fordrad 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "13"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1a",
+            "S1b",
+            "S1*",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Ricbod"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "14"
+        ],
+        "mss": [
+            "T*",
+            "Q",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Joseph 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Joseph 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "15"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gisla 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "16"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelred 7"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Cuthbert 1",
+            "Paulinus 1",
+            "Aelfwald 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "17"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "Q",
+            "S1",
+            "S1*",
+            "A1",
+            "A1*",
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Gildas 1",
+            "Aethelheard 13",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "18"
+        ],
+        "mss": [
+            "T",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelred 7, Osbald 1, Osberht 3, Anonymi 1867"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Cuthbert 1",
+            "Osbald 1",
+            "Osberht 3",
+            "Aethelred 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "19"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "L2",
+            "S1",
+            "A1",
+            "A2",
+            "A1*",
+            "Q",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1868",
+            "Author of Homilies on the Gospel"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Bede 1",
+            "Biscop 2",
+            "Ceolfrith 1",
+            "Cuthbert 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "20"
+        ],
+        "mss": [
+            "A1",
+            "A2",
+            "A1",
+            "S1"
+        ],
+        "date": [],
+        "recipients": [
+            "Hygebald 3, Anonymi 1871"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Charlemagne 1",
+            "Cuthbert 1",
+            "Hygebald 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "21"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hygebald 3, Anonymi 1871"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Cuthbert 1",
+            "Hygebald 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "22"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Cuthrad 1, Anonymi 1862"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Buitta 1",
+            "Cuthbert 1",
+            "Cuthrad 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "23"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "Felix 4"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "24"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hygebald 3"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2",
+            "Hygebald 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "25"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Riculf"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "26"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "Q",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Riculf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "27"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hadrian 3"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "28"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "K1",
+            "K2"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "29"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Pippin 3"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "30"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "S1",
+            "S1*",
+            "A1",
+            "A1*",
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelred 7"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelred 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "31"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "A1",
+            "A1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelberht 10, anonymi 1876"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelberht 10"
+        ]
+    },
+    {
+        "ep_num": [
+            "32"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1?"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "33"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Magenhar"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "34"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1a",
+            "S1b",
+            "S1*",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "35"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "B",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Riculf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "36"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "D",
+            "A1*",
+            "Q"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelburg 8"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelburg 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "37"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "Q",
+            "A1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Heahstan 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Beagnoth 2",
+            "Heahstan 1",
+            "Scaest 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "38"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "D",
+            "Q",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Manna 1, Hereberht 4"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Hereberht 4",
+            "Manna 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "39"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "B",
+            "Q",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a brother and friend in Christ"
+        ],
+        "people_cited": [
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "40"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2"
+        ],
+        "date": [],
+        "recipients": [
+            "a friend who was a bishop"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "41"
+        ],
+        "mss": [
+            "T*",
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "42"
+        ],
+        "mss": [
+            "H",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1879"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Seneca 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "43"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "A1",
+            "A2",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1879"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "44"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 1"
+        ],
+        "people_cited": [
+            "Eanbald 1",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "45"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a sick bishop or abbot"
+        ],
+        "people_cited": [
+            "Basilius 1",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "46"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "47"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1880"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "48"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1880"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "49"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            ""
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Beornrad 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "50"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Liutgard 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "51"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "Q",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of St Martins at Tours"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "52"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Itherius"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "53"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2a",
+            "K2b",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Eada 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eada 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "54"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Arnold"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "55"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "a sick pupil"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "56"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Benedict 4"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "57"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Benedict 4"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "58"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "59"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "60"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "61"
+        ],
+        "mss": [
+            "T",
+            "Q",
+            "S1",
+            "S1*",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Ecgfrith 7"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Ecgfrith 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "62"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hundruda 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Ecgfrith 7",
+            "Hundruda 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "63"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a certain abbot"
+        ],
+        "people_cited": [
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "64"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Offa 7"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "65"
+        ],
+        "mss": [
+            "A1",
+            "A2",
+            "A1*",
+            "K1",
+            "K2",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Dodo 1"
+        ],
+        "people_cited": [
+            "Dodo 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "66"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Dodo 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "67"
+        ],
+        "mss": [
+            "A1",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelbald 8"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Biscop 2",
+            "Ceolfrith 1",
+            "Aethelbald 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "68"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Adaula"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "69"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a dux and his wife in Francia"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "70"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Wulfheard 5"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Wulfheard 5"
+        ]
+    },
+    {
+        "ep_num": [
+            "71"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "Q",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Nortbert"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "72"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Richtrud, Bertha"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "73"
+        ],
+        "mss": [
+            "A1a",
+            "A1b",
+            "A1*a",
+            "A1*b",
+            "K1",
+            "K2"
+        ],
+        "date": [],
+        "recipients": [
+            "Dogwulf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "74"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*",
+            "G",
+            "M"
+        ],
+        "date": [],
+        "recipients": [
+            "Rado 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "75"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aginus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "76"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Remedius"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "77"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Remigius"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Joseph 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "78"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Ricbold,"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "79"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "Q"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelthida 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelthida 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "80"
+        ],
+        "mss": [
+            "P",
+            "E",
+            "C",
+            "Ch",
+            "M",
+            "V"
+        ],
+        "date": [],
+        "recipients": [
+            "Sigewulf 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Sigewulf 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "81"
+        ],
+        "mss": [
+            "E",
+            "G"
+        ],
+        "date": [],
+        "recipients": [
+            "Gallicellulus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "82"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Beornwine 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Beornwine 2",
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "83"
+        ],
+        "mss": [
+            "T",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Peter of Milan"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "84"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "85"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "86"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "87"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "88"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil, Beornrad 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1",
+            "Beornrad 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "89"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a bishop Anonymous 743"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "90"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Usualdus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "91"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Moroaldus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "92"
+        ],
+        "mss": [
+            "T*",
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "93"
+        ],
+        "mss": [
+            "T*",
+            "S1"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "94"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Leo 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "95"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Author of a letter of reply to Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "96"
+        ],
+        "mss": [
+            "T",
+            "K1",
+            "K2",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "97"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Angilberct 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "98"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Eric"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "99"
+        ],
+        "mss": [
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "100"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "101"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Offa 7"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Charlemagne 1",
+            "Offa 7",
+            "Aethelheard 13",
+            "Aethelred 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "102"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelburg 8"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Liutgard 1",
+            "Aethelburg 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "103"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymous 749"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "104"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "bishops of Britain"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Charlemagne 1",
+            "Hadrian 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "105"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "Abbess Aethelthida 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelthida 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "106"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymous 752"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "107"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "108"
+        ],
+        "mss": [
+            "Ha",
+            "Hb"
+        ],
+        "date": [],
+        "recipients": [
+            "Eardwulf 4, king of the Northumbrians"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eardwulf 4"
+        ]
+    },
+    {
+        "ep_num": [
+            "109"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Osbald 1",
+            "Osbald 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Osbald 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "110"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "X"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "111"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Megenfrid"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "112"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Eanbald 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "113"
+        ],
+        "mss": [
+            "S",
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "114"
+        ],
+        "mss": [
+            "S",
+            "A2",
+            "A1",
+            "A1*",
+            "C",
+            "Ca"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2",
+            "Aethelberht 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "115"
+        ],
+        "mss": [
+            "H",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "116"
+        ],
+        "mss": [
+            "S",
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "117"
+        ],
+        "mss": [
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of the church of St Leodegar at Murbach"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "118"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "119"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Pippin 3"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "120"
+        ],
+        "mss": [
+            "S",
+            "P",
+            "W",
+            "G",
+            "O*"
+        ],
+        "date": [],
+        "recipients": [
+            "Beornrad 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Beornrad 1",
+            "Wilgils 2",
+            "Willibrord 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "121"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "122"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Osberht 4"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eardwulf 4",
+            "Offa 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "123"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Cenwulf 3"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Cenwulf 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "124"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hygebald 3"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Gregory 1",
+            "Hygebald 3",
+            "Ingeld 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "125"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Pope Leo 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Angilberct 1",
+            "Gregory 1",
+            "Leo 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "126"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "R",
+            "B",
+            "V",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "127"
+        ],
+        "mss": [
+            "A2"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Augustine 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "128"
+        ],
+        "mss": [
+            "A1",
+            "A1*",
+            "A2",
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gregory 1",
+            "Hygeberht 1",
+            "Laurence 2",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "129"
+        ],
+        "mss": [
+            "H",
+            "S1"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymi 1919"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Augustine 1",
+            "Gildas 1",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "130"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Anonymous 761"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "131"
+        ],
+        "mss": [
+            "H",
+            "T*",
+            "G",
+            "I",
+            "M"
+        ],
+        "date": [],
+        "recipients": [
+            "monks of Saint Martin at Tours"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "132"
+        ],
+        "mss": [
+            "P",
+            "P*"
+        ],
+        "date": [],
+        "recipients": [
+            ""
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "133"
+        ],
+        "mss": [
+            "S",
+            "G",
+            "E",
+            "Z",
+            "T"
+        ],
+        "date": [],
+        "recipients": [
+            "Daphnis"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "134"
+        ],
+        "mss": [
+            "N",
+            "F",
+            "M",
+            "E",
+            "G",
+            "T",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Oduin 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Oduin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "135"
+        ],
+        "mss": [
+            "S",
+            "E",
+            "G"
+        ],
+        "date": [],
+        "recipients": [
+            "Frithugils 2"
+        ],
+        "people_cited": [
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "136"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "S",
+            "L",
+            "V",
+            "P",
+            "K1",
+            "K2",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "137"
+        ],
+        "mss": [
+            "T*",
+            "S",
+            "Q",
+            "G",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Laidrad"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "138"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "S",
+            "K1",
+            "K2",
+            "Q",
+            "M",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the inhabitants of the province of Gothia"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "139"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Paulinus 2"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "140"
+        ],
+        "mss": [
+            "S",
+            "K",
+            "L",
+            "B",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "those bearing letters to Rome"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "141"
+        ],
+        "mss": [
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Leidrad"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "142"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Hrabanus Maurus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "143"
+        ],
+        "mss": [
+            "A",
+            "T",
+            "T*",
+            "R",
+            "C",
+            "M"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "144"
+        ],
+        "mss": [
+            "S",
+            "G",
+            "P",
+            "A",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "145"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            ""
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "146"
+        ],
+        "mss": [
+            "S",
+            "S1",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "147"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "148"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "R",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "149"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "150"
+        ],
+        "mss": [
+            "S",
+            "S1",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "151"
+        ],
+        "mss": [
+            "S",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "152"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "153"
+        ],
+        "mss": [
+            "S",
+            "S1",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "154"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "155"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "R",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "156"
+        ],
+        "mss": [
+            "S",
+            "S1a",
+            "S1b",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "157"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "158"
+        ],
+        "mss": [
+            "S",
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "159"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "160"
+        ],
+        "mss": [
+            "Cod. Parisinus"
+        ],
+        "date": [],
+        "recipients": [
+            "Theodulf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "161"
+        ],
+        "mss": [
+            "S"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "162"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Angilberct 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "163"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P*",
+            "L",
+            "G"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "164"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "165"
+        ],
+        "mss": [
+            "S",
+            "S1a",
+            "S1b",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "166"
+        ],
+        "mss": [
+            "P",
+            "P*",
+            "Pa"
+        ],
+        "date": [],
+        "recipients": [
+            "Elipant 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "167"
+        ],
+        "mss": [
+            "T*",
+            "S1a",
+            "S1b",
+            "S1*",
+            "B",
+            "Q",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "168"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "K1",
+            "K2",
+            "S1",
+            "S1*",
+            "D",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of the church of Salzburg"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "169"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "170"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "R",
+            "L",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "171"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "P*",
+            "K1",
+            "K2",
+            "L",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "172"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "P*",
+            "L",
+            "K1",
+            "K2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Lullus 1",
+            "Peter 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "173"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "174"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "P*",
+            "K1",
+            "K2",
+            "L",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "175"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "176"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "177"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "P*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "178"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "P",
+            "L",
+            "K1",
+            "K2",
+            "A1"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "179"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "180"
+        ],
+        "mss": [
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Leo 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "181"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "182"
+        ],
+        "mss": [
+            "Cod. Paris 2388"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "183"
+        ],
+        "mss": [
+            "S. Mariae Remensis"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "184"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "185"
+        ],
+        "mss": [
+            "H",
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "186"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "187"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "brethren in various parts of Gothia"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "188"
+        ],
+        "mss": [
+            "H",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charles son of Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "189"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Cyneberht 8"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Cyneberht 8"
+        ]
+    },
+    {
+        "ep_num": [
+            "190"
+        ],
+        "mss": [
+            "H",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Peter of Milan"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "191"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Ricbod"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "192"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Theodulf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "193"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "194"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "195"
+        ],
+        "mss": [
+            "G"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "196"
+        ],
+        "mss": [
+            "G",
+            "E",
+            "P",
+            "P*",
+            "O"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "197"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1 on the de"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "198"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "199"
+        ],
+        "mss": [
+            "S. Mariae Remensis"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "200"
+        ],
+        "mss": [
+            "P",
+            "P*",
+            "Pa"
+        ],
+        "date": [],
+        "recipients": [
+            "Laidrad, Benedict 4"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "201"
+        ],
+        "mss": [
+            "P",
+            "Pa"
+        ],
+        "date": [],
+        "recipients": [
+            "Laidrad, Nefridius, Benedict 4"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "202"
+        ],
+        "mss": [
+            "Paris 2386"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "203"
+        ],
+        "mss": [
+            "Paris 2386"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Bede 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "204"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Gundrada 1?"
+        ],
+        "people_cited": [
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "205"
+        ],
+        "mss": [
+            "Paris 2390"
+        ],
+        "date": [],
+        "recipients": [],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "206"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Nefridius"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "207"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "208"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "209"
+        ],
+        "mss": [
+            "H",
+            "T*",
+            "A2",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Caluinus 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Caluinus 1",
+            "Eanbald 2",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "210"
+        ],
+        "mss": [
+            "Paris 2826"
+        ],
+        "date": [],
+        "recipients": [
+            "George 3"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2",
+            "Frithugils 2",
+            "George 3",
+            "Onia 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "211"
+        ],
+        "mss": [
+            "T",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "212"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Riculf"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "213"
+        ],
+        "mss": [
+            "G",
+            "E",
+            "V",
+            "O"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1",
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "214"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Gisla 1",
+            "Richtrud 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "215"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "pupils in Rome"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "216"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1"
+        ],
+        "people_cited": [
+            "Bede 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "217"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Charles son of Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "218"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "219"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the congregatio of St Honorat at Lerins"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "220"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "221"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Angilberct 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "222"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "223"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Theotgar"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "224"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Chrodgar"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "225"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Theodulf"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Alcuin 1",
+            "Candidus 2",
+            "Theodulf 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "226"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Dodo 1",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "227"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "228"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gisla 1, Richtrud 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "229"
+        ],
+        "mss": [
+            "H",
+            "T*"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "230"
+        ],
+        "mss": [
+            "H",
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanbald 2",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "231"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Ceolmund 2",
+            "Charlemagne 1",
+            "Offa 7",
+            "Torhtmund 1",
+            "Aethelheard 13",
+            "Aethelred 7"
+        ]
+    },
+    {
+        "ep_num": [
+            "232"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanbald 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Ceolmund 2",
+            "Charlemagne 1",
+            "Dodo 1",
+            "Eanbald 2",
+            "Torhtmund 1",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "233"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Caluinus 1, Dodo 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Caluinus 1",
+            "Credulus 1",
+            "Eanbald 2",
+            "Eanbald 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "234"
+        ],
+        "mss": [
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Pope Leo 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "235"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a friend"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "236"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "an archbishop"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "237"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Adalhard 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "238"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "239"
+        ],
+        "mss": [
+            "H",
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "240"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "241"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gundrada 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "242"
+        ],
+        "mss": [
+            "S1",
+            "S1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "243"
+        ],
+        "mss": [
+            "C",
+            "E",
+            "G",
+            "X",
+            "I"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "244"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Frithugils 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "245"
+        ],
+        "mss": [
+            "P",
+            "P*"
+        ],
+        "date": [],
+        "recipients": [
+            "Candidus 2, Frithugils 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "246"
+        ],
+        "mss": [
+            "S1"
+        ],
+        "date": [],
+        "recipients": [
+            "a bishop"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "247"
+        ],
+        "mss": [
+            "Paris 2718",
+            "C"
+        ],
+        "date": [],
+        "recipients": [
+            "Unknown_Recipient"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "248"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "249"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "250"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of St Boniface at Fulda"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Boniface 5",
+            "Boniface 5"
+        ]
+    },
+    {
+        "ep_num": [
+            "251"
+        ],
+        "mss": [
+            "A",
+            "G",
+            "E",
+            "N"
+        ],
+        "date": [],
+        "recipients": [
+            "Onia 1, Candidus 2, Frithugils 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2",
+            "Frithugils 2",
+            "Onia 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "252"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "253"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "254"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Candidus 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "255"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "256"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "257"
+        ],
+        "mss": [
+            "G",
+            "S",
+            "E",
+            "A",
+            "T",
+            "M",
+            "C",
+            "L",
+            "I"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "258"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "259"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1",
+            "Frithugils 2",
+            "Aethelthryth 5"
+        ]
+    },
+    {
+        "ep_num": [
+            "260"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "261"
+        ],
+        "mss": [
+            "T",
+            "T*",
+            "L"
+        ],
+        "date": [],
+        "recipients": [
+            "Charlemagne 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "262"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Frithugils 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "263"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Remedius"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "264"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "265"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "266"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "267"
+        ],
+        "mss": [
+            "S1",
+            "S1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "268"
+        ],
+        "mss": [
+            "C",
+            "B"
+        ],
+        "date": [],
+        "recipients": [
+            "Arno 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "269"
+        ],
+        "mss": [
+            "Brussels 5354"
+        ],
+        "date": [],
+        "recipients": [
+            "Elegius"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "270"
+        ],
+        "mss": [
+            "Bib. Minervae Romanae B IV 18"
+        ],
+        "date": [],
+        "recipients": [
+            "Vitulus"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "271"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren under the protection of the blessed Bishop Leodegar at Murbach Anonymi 1950"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "272"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of the monastery of Montolieu"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "273"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren in the locus called Candida Casa Anonymi 1951"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Ninian 1",
+            "Ninian 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "274"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a priest"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "275"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "some fathers in Christ"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "276"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Onia 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "277"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Onia 1"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "278"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the abbot and brethren of an unnamed house"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "279"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Gundrada 1, Theodrada"
+        ],
+        "people_cited": [
+            "Gregory 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "280"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the most noble sons of the Holy Church in Ireland"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "281"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil on pilgrimage in Italy"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "282"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Frithwine 1"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Biscop 2",
+            "Ceolfrith 1",
+            "Frithwine 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "283"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Eanwulf 3,"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Eanwulf 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "284"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of St Peters at Monkwearmouth Anonymi 1983"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Bede 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "285"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Hygebald 3"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Hygebald 3"
+        ]
+    },
+    {
+        "ep_num": [
+            "286"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of the church of Jarrow Anonymi 1959"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "287"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "the fathers in Christ of the church of Mayo in Ireland Anonymi 1962"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "288"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "289"
+        ],
+        "mss": [
+            "R",
+            "G",
+            "T",
+            "A",
+            "S",
+            "E",
+            "Valentian 187"
+        ],
+        "date": [],
+        "recipients": [
+            "Frithugils 2"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Frithugils 2"
+        ]
+    },
+    {
+        "ep_num": [
+            "290"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelheard 13"
+        ]
+    },
+    {
+        "ep_num": [
+            "291"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Augustine 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "292"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelheard 13"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "293"
+        ],
+        "mss": [
+            "A2",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "a priest in the service of St Augustines Canterbury Anonymous 775"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Augustine 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "294"
+        ],
+        "mss": [
+            "S1s",
+            "S1b",
+            "S1*",
+            "B",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil Anonymous 778"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "295"
+        ],
+        "mss": [
+            "H",
+            "S1*",
+            "D"
+        ],
+        "date": [],
+        "recipients": [
+            "a pupil Anonymous 779"
+        ],
+        "people_cited": []
+    },
+    {
+        "ep_num": [
+            "296"
+        ],
+        "mss": [
+            "Atrebat. 734"
+        ],
+        "date": [],
+        "recipients": [
+            "the brethren of St Vaast"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "297"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Regnoida"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "298"
+        ],
+        "mss": [
+            "H"
+        ],
+        "date": [],
+        "recipients": [
+            "Raganbert"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "299"
+        ],
+        "mss": [
+            "A1",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "an abbot"
+        ],
+        "people_cited": [
+            "Alcuin 1"
+        ]
+    },
+    {
+        "ep_num": [
+            "300"
+        ],
+        "mss": [
+            "H",
+            "T*",
+            "A1*"
+        ],
+        "date": [],
+        "recipients": [
+            "Aethelburg 8"
+        ],
+        "people_cited": [
+            "Alcuin 1",
+            "Aethelburg 8"
+        ]
+    }
+]
